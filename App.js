@@ -28,7 +28,7 @@ class info extends React.Component{
       firstname:"mahdiyeh",
       lastname:"piri",
       email:" ",
-      phone:"09148508682",
+      phone:"0912345678",
       address:" ",
       skills:" ",
       submit:0
